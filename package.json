@@ -1,13 +1,7 @@
 {
-<<<<<<< HEAD
   "name": "mr-tee",
-  "version": "2026.2.1",
-  "description": "Personal assistant to @0xdasx",
-=======
-  "name": "openclaw",
   "version": "2026.2.16",
-  "description": "Multi-channel AI gateway with extensible messaging integrations",
->>>>>>> upstream/main
+  "description": "Personal assistant to @0xdasx (Powered by OpenClaw)",
   "keywords": [],
   "homepage": "https://github.com/openclaw/openclaw#readme",
   "bugs": {
